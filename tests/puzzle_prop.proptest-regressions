@@ -1,0 +1,14 @@
+# Seeds for failure cases proptest has generated in the past. It is
+# automatically read and these particular cases re-run before any
+# novel cases are generated.
+#
+# It is recommended to check this file in to source control so that
+# everyone who runs the test benefits from these saved cases.
+cc 7c5b48713634b4577644659e1e5e1700c7a771daba1b9c85888a42ea50271bbf # shrinks to puzzle = [13, 6, 2, 9, 1, 1, 11, 6, 11, 2, 0, 0, 9, 11, 1, 1]
+cc 154a32d84599f6796ea7fad86d0b0729ca4e316e5f0501927c52e354e3ea3ea7 # shrinks to puzzle = [4, 2, 0, 3, 7, 1, 6, 8, 5]
+cc cd8436275fe97241514b351598045cc258e2fe397eecacaaf7a39cb955c594be # shrinks to puzzle = [1, 0, 3, 4, 2, 5, 6, 7, 8]
+cc 5d44cc06d6b50b6ded6521b54590b1ba252c6757c5541f7f1d6eed5a5bc660ef # shrinks to puzzle = [0, 7, 3, 4, 8, 5, 2, 6, 1]
+cc afc494460eb2caa8ca9156d6e0bece4d5dbc90014dca3b46724bcf9ad9321e12 # shrinks to puzzle = [1, 3, 5, 4, 7, 0, 2, 6, 8]
+cc 67343b502c73cdf967c3fc727ac2a0311ab94d852d8d404e3cb6875ca55718b5 # shrinks to puzzle = [2, 0, 7, 4, 5, 6, 1, 3, 8]
+cc 9fee5374040b27d500354c0702667231b397a9a21f44c83ee6c4359290e4cb37 # shrinks to puzzle = [8, 13, 4, 1, 0, 10, 7, 2, 3, 5, 6, 9, 14, 15, 12, 11]
+cc 6f1784392597807a7f3b65ffa5bff509265fe094f3c2cfcab0fda6964ea49456 # shrinks to puzzle = [1, 2, 0, 11, 12, 7, 14, 9, 3, 13, 4, 6, 15, 10, 8, 5]
